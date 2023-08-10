@@ -29,6 +29,8 @@ Data Integration: Combining data from multiple sources/files to create a single 
 
 Data Analysis and Visualization: Create visualizations to explore/analyze the data and identify patterns or trends, and use them finally to create a dynamic dashboard with the help of power bi.
 
+PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
+
 
 
 
