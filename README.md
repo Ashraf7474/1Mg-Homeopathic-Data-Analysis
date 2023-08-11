@@ -35,6 +35,8 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 # --DashBoard Creation--
 Here is the main dashboard which is dynamic in nature and the slicer added
 
+![1 MG DashBoard Image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/b823ef44-95df-43f2-9112-86aafe854935)
+
 
 
 
