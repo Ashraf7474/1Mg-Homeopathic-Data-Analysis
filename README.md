@@ -26,8 +26,14 @@ https://www.1mg.com/categories/homeopathy-57
 
 # Data Preparation
 
-# Data Scrapping(Snapshots)
-![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/5e0acbf8-2cc3-4a7b-8745-fdda0b990bed)
+# Data Scrapping and Table(Snapshots)
+![Capture51](https://github.com/Ashraf7474/1Mg-Homeopathic-Data-Analysis/assets/131772000/af763054-ec92-49c4-91fc-2dbdf7b63e77)
+![Capture53](https://github.com/Ashraf7474/1Mg-Homeopathic-Data-Analysis/assets/131772000/148664cf-a5be-4568-bf19-645f4d7ab399)
+![Capture54](https://github.com/Ashraf7474/1Mg-Homeopathic-Data-Analysis/assets/131772000/76cd244f-cf86-4e61-acf2-b57dd9c6a38a)
+
+
+
+
 
 
 # Data Cleaning ( few code snippets )
