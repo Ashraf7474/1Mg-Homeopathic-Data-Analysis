@@ -26,7 +26,7 @@ https://www.1mg.com/categories/homeopathy-57
 
 # Data Preparation
 
-# Data Scrapping and Table(Snapshots)
+# Data Scrapping Code and Table(Snapshots)
 ![Capture51](https://github.com/Ashraf7474/1Mg-Homeopathic-Data-Analysis/assets/131772000/af763054-ec92-49c4-91fc-2dbdf7b63e77)
 ![Capture53](https://github.com/Ashraf7474/1Mg-Homeopathic-Data-Analysis/assets/131772000/148664cf-a5be-4568-bf19-645f4d7ab399)
 ![Capture54](https://github.com/Ashraf7474/1Mg-Homeopathic-Data-Analysis/assets/131772000/76cd244f-cf86-4e61-acf2-b57dd9c6a38a)
