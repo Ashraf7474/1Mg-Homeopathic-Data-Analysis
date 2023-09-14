@@ -8,6 +8,15 @@
 # Technology & Tools  used
 ![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/1d4cac22-bcd3-4990-b918-d739138c9396)
 
+# OUR APPROACH FOR THE PROJECT
+![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/6df3e5be-7baa-40ee-b9c1-a66085e9b7fd)
+Reference:
+https://www.1mg.com/
+https://www.1mg.com/categories/homeopathy-57
+
+# Data Dictionary
+![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/6d300e45-3c74-48e4-9ff9-62b925c92163)
+
 
 
 
@@ -43,15 +52,10 @@ Data Analysis and Visualization: Create visualizations to explore/analyze the da
 PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
 
 
-# OUR APPROACH FOR THE PROJECT
-![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/6df3e5be-7baa-40ee-b9c1-a66085e9b7fd)
-Reference:
-https://www.1mg.com/
-https://www.1mg.com/categories/homeopathy-57
 
 
-# Data Dictionary
-![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/6d300e45-3c74-48e4-9ff9-62b925c92163)
+
+
 
 # Data Preparation
 
