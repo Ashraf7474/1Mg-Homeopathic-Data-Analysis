@@ -8,7 +8,7 @@
 # Technology & Tools  used
 ![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/1d4cac22-bcd3-4990-b918-d739138c9396)
 
-# OUR APPROACH FOR THE PROJECT
+# OUR APPROACH FOR THE PROJECT 
 ![image](https://github.com/Sudhansu352010/1Mg-Homeopathic-Data-Analysis/assets/131376814/6df3e5be-7baa-40ee-b9c1-a66085e9b7fd)
 Reference:
 https://www.1mg.com/
